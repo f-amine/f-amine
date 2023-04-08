@@ -31,7 +31,10 @@
 </br>
 </br>
 <h3 align="left">Connect with me:</h3>
-If you have any questions or want to discuss potential projects or collaborations, please feel free to contact me at aminefrira@gmail.com. I am always open to new opportunities and would be happy to connect with you. You can also find me on LinkedIn at [amine-frira](https://www.linkedin.com/in/amine-frira/). I look forward to hearing from you and exploring ways we can work together.
+If you have any questions or want to discuss potential projects or collaborations, please feel free to contact me at aminefrira@gmail.com. I am always open to new opportunities and would be happy to connect with you. You can also find me on LinkedIn at [@amine-frira](https://www.linkedin.com/in/amine-frira/). I look forward to hearing from you and exploring ways we can work together.
+</br>
+</br>
+</br>
 <a href="aminefrira1@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>

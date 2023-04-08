@@ -1,4 +1,4 @@
-[![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/987884882627897716/C93D0286765DEE129571DE5CFAE5EC69E3F9294F/)]
+![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/987884882627897716/C93D0286765DEE129571DE5CFAE5EC69E3F9294F/)
 <h1 align="center">Hi 👋, I'm Amine FRIRA</h1>
 <h3 align="center">I'm a passionate Full Stack Developer who enjoys enjoy working on challenging projects</h3>
 </br>
@@ -31,14 +31,13 @@
 </br>
 </br>
 <h3 align="left">Connect with me:</h3>
-If you have any questions or want to discuss potential projects or collaborations, please feel free to contact me at 
+If you have any questions or want to discuss potential projects or collaborations, please feel free to contact me at aminefrira@gmail.com. I am always open to new opportunities and would be happy to connect with you. You can also find me on LinkedIn at [amine-frira](https://www.linkedin.com/in/amine-frira/). I look forward to hearing from you and exploring ways we can work together.
 <a href="aminefrira1@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
-. I am always open to new opportunities and would be happy to connect with you. You can also find me on LinkedIn at 
+</br>
 <a href="https://www.linkedin.com/in/amine-frira/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-  , where I share my latest work and industry insights. I look forward to hearing from you and exploring ways we can work together.
 <p align="left">
 </br>
 </br>

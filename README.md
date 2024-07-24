@@ -1,25 +1,23 @@
 ![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/987884882627897716/C93D0286765DEE129571DE5CFAE5EC69E3F9294F/)
 <h1 align="center">Hi 👋, I'm Amine FRIRA</h1>
-<h3 align="center">I'm a passionate Full Stack Developer who enjoys enjoy working on challenging projects</h3>
+<h3 align="center">I'm a Full Stack Developer at Lightfunnels, trying to build projects that matter</h3>
 </br>
 </br>
 </br>
 <img align="right" alt="Coding" width="400" src="https://irfantariq.com/images/banner.gif">
 
 
-- 🔭 I’m currently working on [KriTirank](https://github.com/AlaouiMohamedDev/server-fields-reservation)
+- 🔭 I’m currently working on [Valorify](https://github.com/AlaouiMohamedDev/server-fields-reservation)
 
-- 🌱 I’m currently learning **REACT, DOCKER, CYBER SECURITY**
+- 🌱 I’m currently learning **LANGGRAPH, GOLANG, ASTRO**
 
 - 👯 I’m looking to collaborate on **any interesting projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/f-amine](https://github.com/f-amine)
 
-- 💬 Ask me about **Python, Spring boot**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **aminefrira1@gmail.com**
-
-- 📄 Know about my experiences (Developer Intern at Maroc Web Solutions. (Jul - Aug 2021))
 
 ### - Other Hobbies : 
 
